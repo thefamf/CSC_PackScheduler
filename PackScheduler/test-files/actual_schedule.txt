@@ -1,0 +1,5 @@
+CSC216,Programming Concepts - Java,601,4,jep,A
+CSC230,C and Software Tools,001,3,dbsturgi,MW,1145,1300
+CSC226,Discrete Mathematics for Computer Scientists,001,3,tmbarnes,MWF,935,1025
+Breakfast,MW,1030,1130,2,Meet the gang before class
+Golf,S,1200,1600,2,Lonnie Poole

@@ -1,0 +1,18 @@
+RegistrationManager bugs list:
+
+read of unwritten field in courseCatalog in clearData()
+read of unwritten field in studentDirectory in clearData()
+read of unwritten field in studentDirectory in login()
+
+getCourseCatalog duplicates method in CourseCatalog
+
+need setters?
+
+login should handle Users (not Students)
+    need to check for non-null currentUser
+    need to handle E2 for UC0
+
+need to initialize courseCatalog
+
+
+    
